@@ -1,2 +1,2 @@
-# Valores-At-picos
+# Valores-Atipicos
 Etapa de Valores Atípicos
